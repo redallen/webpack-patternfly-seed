@@ -11,7 +11,7 @@
   "author": "redallen",
   "license": "MIT",
   "dependencies": {
-    "@patternfly/react-charts": "^4.7.1",
+    "@patternfly/react-charts": "^6.92.0",
     "@patternfly/react-core": "^3.75.2",
     "@reach/router": "^1.2.1",
     "patternfly-react": "^2.36.7",
